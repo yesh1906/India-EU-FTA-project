@@ -1,0 +1,31 @@
+refYear,reporter,partner,partner_group,flow_india,cmdCode,cmdDesc,trade_value_usd,dataset_type,source_side
+2020,India,China,China,Import,TOTAL,All Commodities,58798824676.803,totals,India_reporter
+2020,India,China,China,Export,TOTAL,All Commodities,19008266739.02,totals,India_reporter
+2021,India,China,China,Import,TOTAL,All Commodities,87535135684.944,totals,India_reporter
+2021,India,China,China,Export,TOTAL,All Commodities,23036597255.675,totals,India_reporter
+2022,India,China,China,Import,TOTAL,All Commodities,102249179657.568,totals,India_reporter
+2022,India,China,China,Export,TOTAL,All Commodities,15084400600.793,totals,India_reporter
+2023,India,China,China,Import,TOTAL,All Commodities,121967409566.587,totals,India_reporter
+2023,India,China,China,Export,TOTAL,All Commodities,16245421866.688,totals,India_reporter
+2024,India,China,China,Import,TOTAL,All Commodities,126963489318.893,totals,India_reporter
+2024,India,China,China,Export,TOTAL,All Commodities,14899427449.817,totals,India_reporter
+2020,India,United States,United States,Import,TOTAL,All Commodities,26615672619.015,totals,India_reporter
+2020,India,United States,United States,Export,TOTAL,All Commodities,49320596192.183,totals,India_reporter
+2021,India,United States,United States,Import,TOTAL,All Commodities,41386816406.082,totals,India_reporter
+2021,India,United States,United States,Export,TOTAL,All Commodities,71510497449.674,totals,India_reporter
+2022,India,United States,United States,Import,TOTAL,All Commodities,51772470811.623,totals,India_reporter
+2022,India,United States,United States,Export,TOTAL,All Commodities,80230193279.727,totals,India_reporter
+2023,India,United States,United States,Import,TOTAL,All Commodities,42116442605.924,totals,India_reporter
+2023,India,United States,United States,Export,TOTAL,All Commodities,75805285416.116,totals,India_reporter
+2024,India,United States,United States,Import,TOTAL,All Commodities,38985410718.345,totals,India_reporter
+2024,India,United States,United States,Export,TOTAL,All Commodities,79441705218.364,totals,India_reporter
+2020,India,European Union,European Union,Export,TOTAL,All Commodities,37456356498.937,totals,EU_reporter_reversed
+2020,India,European Union,European Union,Import,TOTAL,All Commodities,34621757793.073,totals,EU_reporter_reversed
+2021,India,European Union,European Union,Export,TOTAL,All Commodities,54452301349.245,totals,EU_reporter_reversed
+2021,India,European Union,European Union,Import,TOTAL,All Commodities,46217497408.315,totals,EU_reporter_reversed
+2022,India,European Union,European Union,Export,TOTAL,All Commodities,71137414638.936,totals,EU_reporter_reversed
+2022,India,European Union,European Union,Import,TOTAL,All Commodities,49542981597.994,totals,EU_reporter_reversed
+2023,India,European Union,European Union,Export,TOTAL,All Commodities,70002783371.401,totals,EU_reporter_reversed
+2023,India,European Union,European Union,Import,TOTAL,All Commodities,51881723621.626,totals,EU_reporter_reversed
+2024,India,European Union,European Union,Export,TOTAL,All Commodities,77060173816.077,totals,EU_reporter_reversed
+2024,India,European Union,European Union,Import,TOTAL,All Commodities,52337850264.399,totals,EU_reporter_reversed
