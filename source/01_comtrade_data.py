@@ -1,3 +1,23 @@
+"""
+Data used in this project is sourced from UN Comtrade, downloaded as CSV files.
+The data is about India's trade with China, the United States, and the European Union,
+covering both total trade and trade in HS2 industrial goods.
+Total trade means all commodities combined, while HS2 industrial goods are a subset of the data filtered,
+like specific sectors or product categories.
+These files were downloaded manually from the UN Comtrade website, using the following parameters:
+- Reporter: India (for some files) and European Union (for others)
+- Partners: China, United States, European Union (depending on the reporter)
+- Trade flows: Imports and Exports
+- Time period: 2020-2024
+- Classification: HS2 (Harmonized System 2-digit level) for the industrial goods files,
+  and "All commodities" for the total trade files.
+These files are stored in the data/raw/ directory and with specific names that we will reference later in the code. The naming convention is:
+- total_ind_china.csv: Total trade between India and China
+- h2s_ind_usa.csv: HS2 industrial goods trade between India and the United States
+  Henceforth...
+"""
+
+
 from pathlib import Path
 import pandas as pd
 

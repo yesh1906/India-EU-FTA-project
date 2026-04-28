@@ -1,0 +1,290 @@
+partner_group,flow_india,cmdCode,cmdDesc,share_2020,share_2024,share_change,exposure_score
+China,Import,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",0.30344787351957186,0.3754583117720164,0.07201043825244452,0.4474687500244609
+China,Import,39,Plastics and articles thereof,0.036817554503892264,0.049573669092752355,0.012756114588860092,0.06232978368161245
+China,Import,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",0.0017618634327034423,0.022711230969617947,0.020949367536914506,0.04366059850653245
+China,Import,29,Organic chemicals,0.13942790155221094,0.08762226838356554,-0.05180563316864539,0.03581663521492015
+China,Import,72,Iron and steel,0.014202357992683688,0.02356456314775207,0.009362205155068384,0.03292676830282046
+China,Import,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",0.026831607435061754,0.022474493393845225,-0.004357114041216529,0.018117379352628697
+China,Import,76,Aluminium and articles thereof,0.01141044366802944,0.014296416193351247,0.0028859725253218074,0.017182388718673055
+China,Import,73,Iron or steel articles,0.020995270124898043,0.017248393692832497,-0.003746876432065546,0.01350151726076695
+China,Import,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",0.02045957382013115,0.016318291528718238,-0.004141282291412911,0.012177009237305327
+China,Import,70,Glass and glassware,0.00754879696502011,0.00981800432668566,0.0022692073616655496,0.01208721168835121
+China,Import,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",0.008856993910976177,0.008945732185796097,8.873827481991996e-05,0.009034470460616017
+China,Import,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",0.010545054063174387,0.009736374163237893,-0.0008086798999364948,0.008927694263301398
+China,Import,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",0.005391718797230852,0.00675120744783634,0.0013594886506054877,0.008110696098441828
+China,Import,54,Man-made filaments; strip and the like of man-made textile materials,0.007590619915878685,0.007362820007703539,-0.00022779990817514608,0.007135020099528393
+China,Import,74,Copper and articles thereof,0.002332277166708433,0.004375659093187278,0.002043381926478845,0.006419041019666123
+China,Import,60,Fabrics; knitted or crocheted,0.005075363988418857,0.0051493584590283714,7.399447060951487e-05,0.005223352929637886
+China,Import,83,Metal; miscellaneous products of base metal,0.004952369113338418,0.005012975998740843,6.0606885402424496e-05,0.005073582884143267
+China,Import,89,"Ships, boats and floating structures",0.0008943459757240036,0.0026398096561617264,0.0017454636804377227,0.004385273336599449
+China,Import,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",0.005544006829708015,0.004729138331295471,-0.0008148684984125437,0.003914269832882927
+China,Import,38,Chemical products n.e.c.,0.02110551781434816,0.012497048428976134,-0.008608469385372025,0.0038885790436041096
+China,Import,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",0.00973080211192938,0.006723282865296748,-0.003007519246632631,0.003715763618664117
+China,Import,69,Ceramic products,0.004585073483575258,0.003926671755348593,-0.000658401728226665,0.003268270027121928
+China,Import,40,Rubber and articles thereof,0.003336396678969578,0.003229562770097748,-0.00010683390887182998,0.0031227288612259182
+China,Import,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",0.0033547502671906317,0.0031929618400435324,-0.00016178842714709932,0.003031173412896433
+China,Import,91,Clocks and watches and parts thereof,0.00048352505209540915,0.00172093968618966,0.001237414634094251,0.002958354320283911
+China,Import,81,"Metals; n.e.c., cermets and articles thereof",0.0028341927486816715,0.002787895786976676,-4.629696170499551e-05,0.0027415988252716805
+China,Import,35,Albuminoidal substances; modified starches; glues; enzymes,0.002371717511472924,0.002470798275487528,9.908076401460384e-05,0.0025698790395021318
+China,Import,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",0.0021193993218739235,0.0022826820446551262,0.00016328272278120278,0.002445964767436329
+China,Import,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",0.005856536428284324,0.00406794052656951,-0.0017885959017148135,0.0022793446248546966
+China,Import,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",0.004968833802680788,0.0035609450696604556,-0.0014078887330203323,0.0021530563366401233
+China,Import,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",0.0023083471408833576,0.002177564611780556,-0.0001307825291028018,0.002046782082677754
+China,Import,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",0.001734768962809582,0.0018613181989149544,0.00012654923610537234,0.001987867435020327
+China,Import,96,Miscellaneous manufactured articles,0.004997080396947412,0.0034668295013336654,-0.0015302508956137463,0.001936578605719919
+China,Import,75,Nickel and articles thereof,0.0010014154119687673,0.0014532061068878058,0.0004517906949190384,0.0019049968018068442
+China,Import,26,"Ores, slag and ash",0.0005686709798842538,0.001161006105895241,0.0005923351260109872,0.001753341231906228
+China,Import,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",0.004911666993114846,0.0031633800846495343,-0.0017482869084653116,0.0014150931761842227
+China,Import,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",0.0010357408471810164,0.0010194870761459046,-1.625377103511177e-05,0.0010032333051107928
+China,Import,44,Wood and articles of wood; wood charcoal,0.0016620319958632465,0.0013146952609324788,-0.0003473367349307677,0.0009673585260017111
+China,Import,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",0.0016570002400309446,0.0012871973957215507,-0.0003698028443093939,0.0009173945514121568
+China,Import,61,Apparel and clothing accessories; knitted or crocheted,0.0023094223003333548,0.0015988503708663662,-0.0007105719294669885,0.0008882784413993777
+China,Import,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,0.000869407861398421,0.0008566059794626024,-1.2801881935818648e-05,0.0008438040975267837
+China,Import,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",0.0018488602610774293,0.0012894255072480817,-0.0005594347538293476,0.0007299907534187341
+China,Import,57,Carpets and other textile floor coverings,0.0003131185746007507,0.00045984226161553833,0.00014672368701478764,0.000606565948630326
+China,Import,95,"Toys, games and sports requisites; parts and accessories thereof",0.0050135282358679326,0.0027820627557645305,-0.002231465480103402,0.0005505972756611284
+China,Import,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",0.00044444367601976506,0.0004877121657587088,4.326848973894374e-05,0.0005309806554976526
+China,Import,52,Cotton,0.0011214314205673884,0.0007665678029338568,-0.00035486361763353163,0.00041170418530032515
+China,Import,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",0.00036934185122526137,0.0003830596329929541,1.371778176769274e-05,0.00039677741476064685
+China,Import,37,Photographic or cinematographic goods,0.000568681445399566,0.00047715063234312976,-9.153081305643624e-05,0.0003856198192866935
+China,Import,23,"Food industries, residues and wastes thereof; prepared animal fodder",0.0010258292756793175,0.0007053373879405034,-0.0003204918877388141,0.0003848455002016893
+China,Import,21,Miscellaneous edible preparations,0.00041914049570658854,0.00039615380715214373,-2.298668855444481e-05,0.0003731671185976989
+China,Import,13,"Lac; gums, resins and other vegetable saps and extracts",0.00045090601723302246,0.000401087790743494,-4.981822648952844e-05,0.0003512695642539656
+China,Import,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",0.00025310739950676824,0.0002882633950936463,3.515599558687806e-05,0.00032341939068052436
+China,Import,8,"Fruit and nuts, edible; peel of citrus fruit or melons",0.00023370350078479068,0.0002778743499116333,4.417084912684263e-05,0.00032204519903847594
+China,Import,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",0.0001915070318989282,0.000247077833393572,5.557080149464378e-05,0.00030264863488821576
+China,Import,41,Raw hides and skins (other than furskins) and leather,0.00040607138309721414,0.0002814992742380595,-0.00012457210885915464,0.00015692716537890486
+China,Import,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",0.0001787380803233332,0.00016261999021735784,-1.611809010597536e-05,0.00014650190011138248
+China,Import,92,Musical instruments; parts and accessories of such articles,0.0004404062099087518,0.00028671521664443643,-0.00015369099326431536,0.00013302422338012107
+China,Import,80,Tin; articles thereof,5.0300550942250754e-05,9.15358667940344e-05,4.1235315851783646e-05,0.00013277118264581805
+China,Import,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",5.18650664492468e-05,9.049634956976763e-05,3.863128312052083e-05,0.00012912763269028846
+China,Import,50,Silk,0.0009633547538297468,0.0005346317746002528,-0.000428722979229494,0.00010590879537075877
+China,Import,65,Headgear and parts thereof,0.00029209758370860414,0.0001989409479016375,-9.315663580696665e-05,0.00010578431209467084
+China,Import,9,"Coffee, tea, mate and spices",0.00022461262422495903,0.00015922487621795192,-6.538774800700711e-05,9.383712821094481e-05
+China,Import,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",0.00017786285517584308,0.00013167400711562108,-4.6188848060221995e-05,8.548515905539909e-05
+China,Import,17,Sugars and sugar confectionery,6.959381709570748e-05,7.433274604083862e-05,4.738928945131139e-06,7.907167498596976e-05
+China,Import,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,0.00036150562108745423,0.00020919228470706286,-0.00015231333638039137,5.687894832667148e-05
+China,Import,22,"Beverages, spirits and vinegar",4.2150527848522895e-05,3.785970641470639e-05,-4.290821433816503e-06,3.356888498088989e-05
+China,Import,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",4.040313679836583e-05,3.3981739271228285e-05,-6.421397527137542e-06,2.7560341744090743e-05
+China,Import,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,5.417785164091492e-08,1.3639224955849681e-05,1.3585047104208766e-05,2.7224272060058447e-05
+China,Import,43,Furskins and artificial fur; manufactures thereof,1.6088814006059754e-05,1.6291106113229766e-05,2.0229210717001138e-07,1.6493398220399777e-05
+China,Import,45,Cork and articles of cork,6.7131887783417855e-06,1.1478906280997501e-05,4.7657175026557154e-06,1.6244623783653216e-05
+China,Import,79,Zinc and articles thereof,9.190760226423336e-05,5.292177292106093e-05,-3.8985829343172425e-05,1.3935943577888507e-05
+China,Import,18,Cocoa and cocoa preparations,1.1872611499246666e-05,1.19620775952792e-05,8.946609603253326e-08,1.2051543691311733e-05
+China,Import,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",9.573173649201682e-06,9.253792214618727e-06,-3.193814345829544e-07,8.934410780035773e-06
+China,Import,93,Arms and ammunition; parts and accessories thereof,9.24055596326151e-07,2.5036450376817e-06,1.579589441355549e-06,4.083234479037249e-06
+China,Import,97,Works of art; collectors' pieces and antiques,8.158812146958781e-05,4.20686113988614e-05,-3.951951007072641e-05,2.5491013281349887e-06
+China,Import,1,Animals; live,6.744287359139122e-07,1.439363654703889e-06,7.649349187899768e-07,2.204298573493866e-06
+China,Import,10,Cereals,6.357072816584121e-07,4.534385460642281e-07,-1.82268735594184e-07,2.711698104700441e-07
+China,Import,5,Animal originated products; not elsewhere specified or included,8.076193441113856e-05,3.725140886070629e-05,-4.351052555043227e-05,-6.259116689725979e-06
+China,Import,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",3.3220613842824285e-05,5.6922326243317626e-06,-2.7528381218492522e-05,-2.1836148594160758e-05
+China,Import,78,Lead and articles thereof,6.322499970763242e-05,6.165969399546947e-06,-5.705903030808547e-05,-5.089306090853852e-05
+China,Import,30,Pharmaceutical products,0.003143954561355889,0.0015455930084523842,-0.0015983615529035046,-5.2768544451120385e-05
+China,Import,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,0.0011473973111339449,0.000513626672942235,-0.0006337706381917098,-0.00012014396524947482
+China,Import,64,Footwear; gaiters and the like; parts of such articles,0.003259490174190682,0.0015682119913537362,-0.001691278182836946,-0.00012306619148320973
+China,Import,20,"Preparations of vegetables, fruit, nuts or other parts of plants",0.000415308747551104,0.0001449735317983342,-0.00027033521575276984,-0.00012536168395443564
+China,Import,7,Vegetables and certain roots and tubers; edible,0.0008293522379919012,0.0002646600258016048,-0.0005646922121902965,-0.0003000321863886917
+China,Import,62,Apparel and clothing accessories; not knitted or crocheted,0.0028522683522305857,0.0011922761223960338,-0.0016599922298345519,-0.0004677161074385181
+China,Import,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",0.0037796677973680136,0.00147213729135583,-0.002307530506012184,-0.0008353932146563539
+China,Import,55,Man-made staple fibres,0.005353278349782729,0.0019624059927984684,-0.003390872356984261,-0.0014284663641857924
+China,Import,99,Commodities not specified according to kind,0.0061293408931213265,0.0006327835040687151,-0.005496557389052611,-0.004863773884983896
+China,Import,31,Fertilizers,0.028460271863209416,0.006727274198149355,-0.02173299766506006,-0.015005723466910705
+China,Import,15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",,0.00013102503310394247,,
+China,Import,16,"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",,3.5682248371586423e-06,,
+China,Import,24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",,1.174601720542098e-06,,
+China,Import,84,"Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",,0.21264147227583768,,
+China,Import,88,"Aircraft, spacecraft, and parts thereof",,0.00012378828713918518,,
+European Union,Import,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",0.09306206936047057,0.09740275125640252,0.004340681895931953,0.10174343315233447
+European Union,Import,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",0.06343937123659557,0.07185855327719312,0.00841918204059755,0.08027773531779067
+European Union,Import,39,Plastics and articles thereof,0.04667019277067068,0.0448320891450544,-0.0018381036256162817,0.042993985519438116
+European Union,Import,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",0.022742212690010394,0.03253711149566237,0.009794898805651979,0.04233201030131435
+European Union,Import,72,Iron and steel,0.030686163686890727,0.029906801169893325,-0.0007793625169974019,0.029127438652895923
+European Union,Import,38,Chemical products n.e.c.,0.030826415511278803,0.027388234196716252,-0.0034381813145625516,0.0239500528821537
+European Union,Import,29,Organic chemicals,0.05523151147527263,0.03943316068665318,-0.01579835078861945,0.02363480989803373
+European Union,Import,76,Aluminium and articles thereof,0.011991591948722884,0.01709448638240302,0.005102894433680137,0.02219738081608316
+European Union,Import,74,Copper and articles thereof,0.011012328849326259,0.016489924247100274,0.005477595397774015,0.02196751964487429
+European Union,Import,73,Iron or steel articles,0.017874266883002875,0.016837896802449733,-0.0010363700805531423,0.01580152672189659
+European Union,Import,40,Rubber and articles thereof,0.009756513127494131,0.011560354483656958,0.0018038413561628271,0.013364195839819785
+European Union,Import,30,Pharmaceutical products,0.03166283548830831,0.02240892543241889,-0.009253910055889422,0.013155015376529466
+European Union,Import,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,0.008242367945602342,0.010455404581495265,0.002213036635892923,0.012668441217388188
+European Union,Import,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",0.011858620407950288,0.010840816288703295,-0.0010178041192469931,0.009823012169456302
+European Union,Import,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",0.010733041933197011,0.010225045394385103,-0.0005079965388119084,0.009717048855573195
+European Union,Import,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",0.004505015320487981,0.006943149047300285,0.0024381337268123042,0.00938128277411259
+European Union,Import,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,0.0014731760788936773,0.0045944224115099085,0.0031212463326162313,0.007715668744126139
+European Union,Import,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",0.0054818455480326505,0.006531048206798787,0.0010492026587661362,0.007580250865564923
+European Union,Import,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",0.0049125780986212396,0.005665944844007453,0.0007533667453862138,0.006419311589393667
+European Union,Import,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",0.01219304648452916,0.009266124799223795,-0.0029269216853053653,0.00633920311391843
+European Union,Import,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",0.011320228056833685,0.008500800287161306,-0.002819427769672379,0.005681372517488927
+European Union,Import,44,Wood and articles of wood; wood charcoal,0.00429314102546104,0.004876869239595541,0.0005837282141345013,0.0054605974537300424
+European Union,Import,22,"Beverages, spirits and vinegar",0.001487726095389398,0.0033803241693774015,0.0018925980739880036,0.005272922243365405
+European Union,Import,35,Albuminoidal substances; modified starches; glues; enzymes,0.004658163495594835,0.0047870996958090635,0.0001289362002142285,0.004916035896023292
+European Union,Import,83,Metal; miscellaneous products of base metal,0.0034021759283862957,0.004009230381721211,0.0006070544533349153,0.004616284835056127
+European Union,Import,69,Ceramic products,0.0036371513287580415,0.004008782813720584,0.0003716314849625422,0.004380414298683126
+European Union,Import,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",0.003219837049761716,0.00374968773676393,0.0005298506870022139,0.004279538423766144
+European Union,Import,55,Man-made staple fibres,0.0024095683679498424,0.003235183377128101,0.0008256150091782584,0.004060798386306359
+European Union,Import,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",0.00642255362275438,0.005068320288337144,-0.001354233334417236,0.0037140869539199085
+European Union,Import,75,Nickel and articles thereof,0.0025502598290568553,0.003092446968080714,0.0005421871390238588,0.003634634107104573
+European Union,Import,79,Zinc and articles thereof,0.0007883636362179204,0.0021090361013372744,0.001320672465119354,0.003429708566456628
+European Union,Import,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",0.002080725783034087,0.0026951261880534647,0.0006144004050193776,0.0033095265930728423
+European Union,Import,70,Glass and glassware,0.0033795711040825256,0.0029367459599989347,-0.00044282514408359097,0.0024939208159153437
+European Union,Import,81,"Metals; n.e.c., cermets and articles thereof",0.0015390885477128322,0.0019793648517021597,0.0004402763039893275,0.002419641155691487
+European Union,Import,17,Sugars and sugar confectionery,0.001957172207430934,0.002096066064269058,0.00013889385683812407,0.002234959921107182
+European Union,Import,31,Fertilizers,0.0021004741887068017,0.002144885509261396,4.441132055459443e-05,0.0021892968298159905
+European Union,Import,7,Vegetables and certain roots and tubers; edible,0.00021786399067554032,0.0010848219227418637,0.0008669579320663234,0.0019517798548081872
+European Union,Import,18,Cocoa and cocoa preparations,0.0006056542942830531,0.0012710590446862935,0.0006654047504032404,0.001936463795089534
+European Union,Import,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",0.0014208473094294448,0.0015488601988710743,0.00012801288944162955,0.0016768730883127039
+European Union,Import,23,"Food industries, residues and wastes thereof; prepared animal fodder",0.0014734905902499486,0.001566441069624299,9.295047937435039e-05,0.0016593915489986494
+European Union,Import,8,"Fruit and nuts, edible; peel of citrus fruit or melons",0.0012916026904027415,0.0014284758164753394,0.00013687312607259792,0.0015653489425479373
+European Union,Import,54,Man-made filaments; strip and the like of man-made textile materials,0.0007735597092751177,0.0011292448824403354,0.00035568517316521763,0.001484930055605553
+European Union,Import,37,Photographic or cinematographic goods,0.0009106887414396961,0.0011471259750582452,0.00023643723361854913,0.0013835632086767944
+European Union,Import,41,Raw hides and skins (other than furskins) and leather,0.0022516681994293863,0.0017445252370273331,-0.0005071429624020532,0.00123738227462528
+European Union,Import,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",0.0005769292746597256,0.0008858096045556651,0.00030888032989593943,0.0011946899344516045
+European Union,Import,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",0.0006521366604765503,0.000894415586167913,0.00024227892569136272,0.0011366945118592756
+European Union,Import,21,Miscellaneous edible preparations,0.000877949588772326,0.000981257690553919,0.00010330810178159312,0.0010845657923355123
+European Union,Import,78,Lead and articles thereof,0.00044334140504191264,0.0007371930861143058,0.0002938516810723932,0.001031044767186699
+European Union,Import,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",0.00033821880864593753,0.0006760049765564621,0.0003377861679105246,0.0010137911444669868
+European Union,Import,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",0.0009549817603893866,0.0009578718656333914,2.890105244004776e-06,0.0009607619708773961
+European Union,Import,95,"Toys, games and sports requisites; parts and accessories thereof",0.0009491571840000166,0.0008991578299311963,-4.999935406882028e-05,0.000849158475862376
+European Union,Import,93,Arms and ammunition; parts and accessories thereof,0.000591161779402701,0.0006706104432010855,7.944866379838451e-05,0.00075005910699947
+European Union,Import,26,"Ores, slag and ash",0.0007948784956409492,0.0007589103465340212,-3.596814910692802e-05,0.0007229421974270932
+European Union,Import,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",0.00034097977597091647,0.0005172688125942346,0.00017628903662331814,0.0006935578492175528
+European Union,Import,96,Miscellaneous manufactured articles,0.000977346588011022,0.0008340841251688754,-0.00014326246284214667,0.0006908216623267287
+European Union,Import,62,Apparel and clothing accessories; not knitted or crocheted,0.001185033651677081,0.0009328191882235222,-0.0002522144634535589,0.0006806047247699632
+European Union,Import,9,"Coffee, tea, mate and spices",0.0005747949561643546,0.0006266921273667881,5.189717120243349e-05,0.0006785892985692216
+European Union,Import,89,"Ships, boats and floating structures",0.0005506125304480149,0.0005914950044873815,4.0882474039366686e-05,0.0006323774785267482
+European Union,Import,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",0.0006970973113280685,0.0006625306020371153,-3.456670929095321e-05,0.0006279638927461621
+European Union,Import,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",0.0013199869536707587,0.0009604543822120659,-0.00035953257145869273,0.0006009218107533732
+European Union,Import,97,Works of art; collectors' pieces and antiques,0.00015120307779543154,0.0003751566770856908,0.00022395359929025928,0.00059911027637595
+European Union,Import,64,Footwear; gaiters and the like; parts of such articles,0.000823381026243181,0.0007048322571073088,-0.00011854876913587218,0.0005862834879714366
+European Union,Import,20,"Preparations of vegetables, fruit, nuts or other parts of plants",0.0003167044706550133,0.00043030321043429736,0.00011359873977928407,0.0005439019502135815
+European Union,Import,61,Apparel and clothing accessories; knitted or crocheted,0.0008828702293711722,0.0006928711214313591,-0.00018999910793981317,0.0005028720134915459
+European Union,Import,91,Clocks and watches and parts thereof,0.00018225457149559306,0.00033245921479576343,0.00015020464330017038,0.0004826638580959338
+European Union,Import,13,"Lac; gums, resins and other vegetable saps and extracts",0.0007343798162116999,0.0006014850769943464,-0.0001328947392173535,0.00046859033777699286
+European Union,Import,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",0.0002967492042838093,0.0003323742495941448,3.562504531033552e-05,0.0003679992949044803
+European Union,Import,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,0.0002449364325949289,0.00029452058028996885,4.958414769503993e-05,0.0003441047279850088
+European Union,Import,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",0.0005873011927797203,0.0004581308878349246,-0.00012917030494479566,0.00032896058289012895
+European Union,Import,57,Carpets and other textile floor coverings,0.00022896826297441717,0.00027406909096450616,4.510082799008899e-05,0.00031916991895459515
+European Union,Import,52,Cotton,0.00039468291294370814,0.0003291291447390161,-6.555376820469207e-05,0.000263575376534324
+European Union,Import,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",0.00024093393835912955,0.0002245029977662792,-1.6430940592850355e-05,0.00020807205717342884
+European Union,Import,10,Cereals,0.00011871038413372477,0.00014706046207701515,2.8350077943290383e-05,0.00017541054002030552
+European Union,Import,60,Fabrics; knitted or crocheted,0.00026231085279610145,0.00020800196947342496,-5.430888332267649e-05,0.00015369308615074848
+European Union,Import,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",0.00034634193262713243,0.00024383276723310382,-0.00010250916539402861,0.00014132360183907521
+European Union,Import,45,Cork and articles of cork,0.00011432229283841757,0.00011774230505970669,3.4200122212891165e-06,0.0001211623172809958
+European Union,Import,5,Animal originated products; not elsewhere specified or included,0.00024242696887794246,0.00016573752137658178,-7.668944750136069e-05,8.904807387522109e-05
+European Union,Import,2,Meat and edible meat offal,4.0284853655790244e-05,6.18300515334936e-05,2.1545197877703356e-05,8.337524941119696e-05
+European Union,Import,80,Tin; articles thereof,5.599149649149464e-05,6.605620900619475e-05,1.006471251470011e-05,7.612092152089485e-05
+European Union,Import,65,Headgear and parts thereof,5.33821303079531e-05,5.495692065053302e-05,1.5747903425799241e-06,5.653171099311295e-05
+European Union,Import,50,Silk,1.088135467447059e-05,2.4471932273291128e-05,1.3590577598820537e-05,3.806250987211166e-05
+European Union,Import,43,Furskins and artificial fur; manufactures thereof,4.884893317977552e-05,3.553479525056285e-05,-1.331413792921267e-05,2.2220657321350183e-05
+European Union,Import,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1.1508465063543513e-05,1.6142604763702132e-05,4.634139700158619e-06,2.077674446386075e-05
+European Union,Import,92,Musical instruments; parts and accessories of such articles,2.487293955861462e-05,2.0993103412720722e-05,-3.879836145893898e-06,1.7113267266826824e-05
+European Union,Import,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",4.178790743806867e-06,3.6941918329328214e-06,-4.845989108740457e-07,3.2095929220587757e-06
+European Union,Import,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",5.687581438728123e-06,4.411486483178269e-06,-1.276094955549854e-06,3.1353915276284154e-06
+European Union,Import,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",8.614047215121584e-05,4.374493779232288e-05,-4.239553435889296e-05,1.3494034334299228e-06
+European Union,Import,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,3.1541806933286797e-06,1.1642612505514011e-06,-1.9899194427772783e-06,-8.256581922258772e-07
+European Union,Import,1,Animals; live,0.00012686614949629474,5.80504624789053e-05,-6.881568701738944e-05,-1.0765224538484143e-05
+European Union,Import,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",0.006224342124799363,0.0021607137940078086,-0.0040636283307915536,-0.001902914536783745
+European Union,Import,99,Commodities not specified according to kind,0.0052354135131546286,0.00025638827468479224,-0.0049790252384698365,-0.0047226369637850445
+European Union,Import,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",0.09867510640528245,0.04257296278136747,-0.056102143623914975,-0.013529180842547506
+European Union,Import,15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",,0.0020137755758893754,,
+European Union,Import,16,"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",,1.155762619106797e-05,,
+European Union,Import,24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",,0.00015009895879013248,,
+European Union,Import,84,"Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",,0.23915267567436396,,
+European Union,Import,88,"Aircraft, spacecraft, and parts thereof",,0.13290922322411156,,
+United States,Import,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",0.2574630655724949,0.3151837449781683,0.057720679405673436,0.37290442438384175
+United States,Import,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",0.04539792921836021,0.05961224017510256,0.014214310956742353,0.07382655113184491
+United States,Import,39,Plastics and articles thereof,0.03985064574187464,0.04625949502523439,0.006408849283359747,0.052668344308594135
+United States,Import,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",0.05833158063433429,0.05140454902533535,-0.006927031608998935,0.04447751741633642
+United States,Import,38,Chemical products n.e.c.,0.031073249891502057,0.03216112559729951,0.0010878757057974503,0.03324900130309696
+United States,Import,76,Aluminium and articles thereof,0.017895281782124003,0.023551216007914287,0.005655934225790284,0.02920715023370457
+United States,Import,72,Iron and steel,0.014875292002020495,0.021947912403379285,0.00707262040135879,0.029020532804738076
+United States,Import,8,"Fruit and nuts, edible; peel of citrus fruit or melons",0.033661153734322706,0.028397964931841525,-0.005263188802481181,0.023134776129360345
+United States,Import,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,0.017591144749749422,0.01844228016193956,0.000851135412190139,0.0192934155741297
+United States,Import,30,Pharmaceutical products,0.011299842085717425,0.014440253611515592,0.0031404115257981664,0.01758066513731376
+United States,Import,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",0.012090944593003253,0.014759222763818209,0.0026682781708149556,0.017427500934633165
+United States,Import,29,Organic chemicals,0.055245156440218005,0.03346678412304252,-0.021778372317175484,0.011688411805867036
+United States,Import,22,"Beverages, spirits and vinegar",0.011570877601680556,0.01146790943819969,-0.00010296816348086615,0.011364941274718824
+United States,Import,40,Rubber and articles thereof,0.006073059736222218,0.007322653196742285,0.0012495934605200668,0.00857224665726235
+United States,Import,74,Copper and articles thereof,0.006282673381079519,0.006785718105299221,0.0005030447242197018,0.007288762829518923
+United States,Import,73,Iron or steel articles,0.007332235567309774,0.007163390839245092,-0.00016884472806468192,0.00699454611118041
+United States,Import,75,Nickel and articles thereof,0.0021667935936288438,0.0038302338957463995,0.0016634403021175558,0.005493674197863955
+United States,Import,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",0.003998022821673332,0.004730903107972429,0.0007328802862990964,0.005463783394271525
+United States,Import,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",0.002413816639490302,0.0038803456215946715,0.0014665289821043695,0.005346874603699041
+United States,Import,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",0.006844940819487581,0.005606238859660225,-0.0012387019598273557,0.00436753689983287
+United States,Import,52,Cotton,0.00588933437451534,0.005108649033477589,-0.0007806853410377516,0.004327963692439837
+United States,Import,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",0.0040487593077028206,0.004081398207307503,3.263889960468218e-05,0.004114037106912185
+United States,Import,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",0.001498976573393075,0.00271072227109491,0.001211745697701835,0.003922467968796745
+United States,Import,7,Vegetables and certain roots and tubers; edible,0.0005009866039783921,0.0021538540804313636,0.0016528674764529714,0.003806721556884335
+United States,Import,44,Wood and articles of wood; wood charcoal,0.0013611863472922253,0.0024280858636294106,0.0010668995163371853,0.003494985379966596
+United States,Import,35,Albuminoidal substances; modified starches; glues; enzymes,0.0026919542581395396,0.0029297055396996126,0.00023775128156007302,0.0031674568212596856
+United States,Import,78,Lead and articles thereof,0.0021496327935792625,0.0026297418619667737,0.0004801090683875112,0.003109850930354285
+United States,Import,97,Works of art; collectors' pieces and antiques,0.0006580262699237195,0.001668248808865209,0.0010102225389414894,0.0026784713478066983
+United States,Import,55,Man-made staple fibres,0.0007838024566058707,0.0015875539077718711,0.0008037514511660004,0.0023913053589378714
+United States,Import,26,"Ores, slag and ash",0.0014677983618604006,0.0019109442967326167,0.00044314593487221614,0.002354090231604833
+United States,Import,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",0.0013190668507441956,0.0017559455119396028,0.00043687866119540716,0.00219282417313501
+United States,Import,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",0.0014464297229332102,0.0018009364494642047,0.00035450672653099453,0.0021554431759951993
+United States,Import,23,"Food industries, residues and wastes thereof; prepared animal fodder",0.0008176623363429029,0.0014815238037449083,0.0006638614674020054,0.0021453852711469136
+United States,Import,83,Metal; miscellaneous products of base metal,0.0015250633569562307,0.0016537560667960808,0.00012869270983985,0.0017824487766359308
+United States,Import,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",0.0018606319262667744,0.0018138380001400149,-4.6793926126759535e-05,0.0017670440740132553
+United States,Import,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",0.0007619496883393827,0.0011727025778770818,0.00041075288953769905,0.0015834554674147808
+United States,Import,81,"Metals; n.e.c., cermets and articles thereof",0.0010344764795585703,0.0013046068342962714,0.00027013035473770117,0.0015747371890339726
+United States,Import,69,Ceramic products,0.0007843769844496299,0.0010166073980426306,0.0002322304135930007,0.0012488378116356314
+United States,Import,70,Glass and glassware,0.0019514237969660618,0.0015928984192740152,-0.00035852537769204664,0.0012343730415819685
+United States,Import,99,Commodities not specified according to kind,0.0038517158253504867,0.0024321846207299687,-0.001419531204620518,0.0010126534161094508
+United States,Import,95,"Toys, games and sports requisites; parts and accessories thereof",0.0005117618845472976,0.0007134324037251218,0.00020167051917782414,0.0009151029229029459
+United States,Import,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",0.002357582734286237,0.0015595048315956532,-0.0007980779026905836,0.0007614269289050696
+United States,Import,20,"Preparations of vegetables, fruit, nuts or other parts of plants",0.00042323035398147784,0.0005780719644027058,0.00015484161042122796,0.0007329135748239338
+United States,Import,54,Man-made filaments; strip and the like of man-made textile materials,0.0006667663031113019,0.0006379300506714214,-2.883625243988049e-05,0.0006090937982315409
+United States,Import,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",0.001450569382846268,0.0010291311885068993,-0.0004214381943393687,0.0006076929941675306
+United States,Import,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",0.0005847353854165769,0.0005725400100632198,-1.2195375353357121e-05,0.0005603446347098626
+United States,Import,5,Animal originated products; not elsewhere specified or included,0.0003867755170931219,0.0004560547492099057,6.92792321167838e-05,0.0005253339813266895
+United States,Import,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",0.0006334268679708908,0.0005469103615719234,-8.651650639896738e-05,0.000460393855172956
+United States,Import,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",0.0011474765713861022,0.0007517195886103543,-0.00039575698277574786,0.00035596260583460647
+United States,Import,21,Miscellaneous edible preparations,0.001329329464351972,0.0007805357901662703,-0.0005487936741857017,0.00023174211598056852
+United States,Import,79,Zinc and articles thereof,0.0007970298024648105,0.0005062762497128794,-0.00029075355275193107,0.00021552269696094837
+United States,Import,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",0.0007548041157768415,0.00048407661564328766,-0.0002707275001335539,0.00021334911550973377
+United States,Import,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,0.00010101805855093603,0.00014526965805018512,4.425159949924909e-05,0.0001895212575494342
+United States,Import,1,Animals; live,0.00013944998415514915,0.00016252577890678638,2.3075794751637227e-05,0.0001856015736584236
+United States,Import,17,Sugars and sugar confectionery,0.000876027952505851,0.0005269956622601968,-0.0003490322902456542,0.0001779633720145426
+United States,Import,64,Footwear; gaiters and the like; parts of such articles,0.00010496038495771052,0.00012600860553941458,2.104822058170406e-05,0.00014705682612111863
+United States,Import,96,Miscellaneous manufactured articles,0.0007572707125801515,0.00044979636881825857,-0.0003074743437618929,0.00014232202505636568
+United States,Import,92,Musical instruments; parts and accessories of such articles,7.577049210318944e-05,9.28291389347105e-05,1.7058646831521055e-05,0.00010988778576623155
+United States,Import,37,Photographic or cinematographic goods,0.0008340456254012641,0.0004627431195821923,-0.00037130250581907185,9.144061376312044e-05
+United States,Import,10,Cereals,4.724463371636671e-05,6.485292745191658e-05,1.7608293735549872e-05,8.246122118746646e-05
+United States,Import,93,Arms and ammunition; parts and accessories thereof,6.455855719282285e-05,6.902460929400298e-05,4.466052101180135e-06,7.349066139518312e-05
+United States,Import,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",7.020664176884867e-05,6.173837616817538e-05,-8.468265600673292e-06,5.327011056750209e-05
+United States,Import,80,Tin; articles thereof,1.0122493008406672e-06,2.3108531355707226e-05,2.209628205486656e-05,4.520481341057378e-05
+United States,Import,18,Cocoa and cocoa preparations,5.1523007238238764e-05,4.8333698896067246e-05,-3.1893083421715175e-06,4.514439055389573e-05
+United States,Import,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",2.607139774120548e-05,3.512991326151508e-05,9.058515520309601e-06,4.418842878182468e-05
+United States,Import,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",7.455012046483388e-07,1.807804211918584e-05,1.7332540914537502e-05,3.541058303372334e-05
+United States,Import,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1.0663721900353202e-05,2.211790521407145e-05,1.1454183313718249e-05,3.3572088527789696e-05
+United States,Import,91,Clocks and watches and parts thereof,2.5995393763062352e-05,2.8675507488598747e-05,2.680113725536395e-06,3.1355621214135146e-05
+United States,Import,65,Headgear and parts thereof,2.8065155244898723e-05,2.4362746127311297e-05,-3.702409117587426e-06,2.066033700972387e-05
+United States,Import,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1.1967863242067947e-06,3.0074251069728703e-06,1.8106387827660756e-06,4.818063889738946e-06
+United States,Import,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,9.297210089037243e-08,1.2909789347510193e-06,1.1980068338606468e-06,2.488985768611666e-06
+United States,Import,43,Furskins and artificial fur; manufactures thereof,1.747168319420231e-07,1.0060289805166629e-06,8.313121485746398e-07,1.8373411290913027e-06
+United States,Import,60,Fabrics; knitted or crocheted,1.930884784902565e-05,1.0285142944802144e-05,-9.023704904223505e-06,1.2614380405786398e-06
+United States,Import,2,Meat and edible meat offal,3.885273555932203e-06,2.3135404588044547e-06,-1.571733097127748e-06,7.418073616767066e-07
+United States,Import,45,Cork and articles of cork,6.125120463179393e-06,2.3604524693822837e-06,-3.7646679937971096e-06,-1.404215524414826e-06
+United States,Import,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",2.204997853711064e-06,3.1449431400322793e-08,-2.1735484223107414e-06,-2.1420989909104187e-06
+United States,Import,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,3.324521655589905e-06,5.205564755138104e-07,-2.8039651800760945e-06,-2.283408704562284e-06
+United States,Import,50,Silk,2.9006877678848972e-06,1.7296901265751918e-07,-2.727718755227378e-06,-2.554749742569859e-06
+United States,Import,41,Raw hides and skins (other than furskins) and leather,0.0003020897882646921,0.00014835958589191783,-0.00015373020237277425,-5.370616480856419e-06
+United States,Import,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",8.50702941988608e-06,7.97251341650594e-07,-7.709778078235485e-06,-6.912526736584891e-06
+United States,Import,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",5.25498165693874e-05,1.9275882776486538e-05,-3.3273933792900864e-05,-1.3998051016414326e-05
+United States,Import,61,Apparel and clothing accessories; knitted or crocheted,8.39863697603181e-05,3.1837872017491256e-05,-5.214849774282684e-05,-2.0310625725335587e-05
+United States,Import,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",4.2695583848902205e-05,9.893299182776274e-06,-3.280228466612593e-05,-2.290898548334966e-05
+United States,Import,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",0.00023491527418824487,0.0001007808387446634,-0.00013413443544358147,-3.335359669891808e-05
+United States,Import,9,"Coffee, tea, mate and spices",7.378144032314229e-05,1.684136075270448e-05,-5.694007957043781e-05,-4.009871881773333e-05
+United States,Import,13,"Lac; gums, resins and other vegetable saps and extracts",0.00044490989510221615,0.0001903425755755387,-0.00025456731952667745,-6.422474395113874e-05
+United States,Import,62,Apparel and clothing accessories; not knitted or crocheted,0.0002144660559854631,6.111130530885783e-05,-0.00015335475067660526,-9.224344536774743e-05
+United States,Import,57,Carpets and other textile floor coverings,0.0002411965258925724,6.513179513086821e-05,-0.00017606473076170421,-0.000110932935630836
+United States,Import,31,Fertilizers,0.0019614448486906565,0.0005348958847107216,-0.0014265489639799349,-0.0008916530792692132
+United States,Import,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",0.017223952821110406,0.008066883770882346,-0.00915706905022806,-0.0010901852793457137
+United States,Import,89,"Ships, boats and floating structures",0.010559114280855693,0.000307091836417832,-0.010252022444437861,-0.00994493060802003
+United States,Import,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",0.16798803358661105,0.05779833881944175,-0.1101896947671693,-0.05239135594772756
+United States,Import,15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",,0.0002736019008767496,,
+United States,Import,16,"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",,1.8416047972072733e-05,,
+United States,Import,24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",,1.5585722012518902e-05,,
+United States,Import,84,"Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",,0.14825876805966784,,
+United States,Import,88,"Aircraft, spacecraft, and parts thereof",,0.01943519783179971,,
