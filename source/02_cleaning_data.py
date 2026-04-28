@@ -1,5 +1,6 @@
 from pathlib import Path
 import pandas as pd
+# Wider terminal display for cleaner previews
 pd.set_option("display.width", 140)
 pd.set_option("display.max_columns", 20)
 pd.set_option("display.max_colwidth", 40)
@@ -246,7 +247,7 @@ def main() -> None:
 
     # Combine all cleaned totals into one DataFrame
     clean_totals = pd.concat(totals_frames, ignore_index=True)
-    
+
     # --------------------------------------------------------
     # B. CLEAN HS2 FILES
     # --------------------------------------------------------

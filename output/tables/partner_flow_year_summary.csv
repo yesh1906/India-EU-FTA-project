@@ -1,0 +1,31 @@
+refYear,partner_group,flow_india,trade_value_usd
+2020,China,Export,19008266739.02
+2021,China,Export,23036597255.675
+2022,China,Export,15084400600.793
+2023,China,Export,16245421866.688
+2024,China,Export,14899427449.817
+2020,China,Import,58798824676.803
+2021,China,Import,87535135684.944
+2022,China,Import,102249179657.568
+2023,China,Import,121967409566.587
+2024,China,Import,126963489318.893
+2020,European Union,Export,37456356498.937
+2021,European Union,Export,54452301349.245
+2022,European Union,Export,71137414638.936
+2023,European Union,Export,70002783371.401
+2024,European Union,Export,77060173816.077
+2020,European Union,Import,34621757793.073
+2021,European Union,Import,46217497408.315
+2022,European Union,Import,49542981597.994
+2023,European Union,Import,51881723621.626
+2024,European Union,Import,52337850264.399
+2020,United States,Export,49320596192.183
+2021,United States,Export,71510497449.674
+2022,United States,Export,80230193279.727
+2023,United States,Export,75805285416.116
+2024,United States,Export,79441705218.364
+2020,United States,Import,26615672619.015
+2021,United States,Import,41386816406.082
+2022,United States,Import,51772470811.623
+2023,United States,Import,42116442605.924
+2024,United States,Import,38985410718.345
