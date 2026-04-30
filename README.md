@@ -44,4 +44,4 @@ quarto render blog.qm
 ```
 ## Outputs
 - GitHub repository: https://github.com/yesh1906/India-EU-FTA-project 
-- Project endpoint: 
+- Project endpoint: https://yesh1906.github.io/India-EU-FTA-project/
