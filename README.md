@@ -24,6 +24,7 @@ Can the India–EU FTA help India reduce strategic import dependence on China by
 - `requirements.txt` required Python libraries
 
 ## Reproducibility
+Quarto must also be installed separately to render `blog.qmd`.
 
 ### Option 1: Render from saved outputs
 The Quarto file can be rendered directly from the saved outputs without rerunning all Python scripts, as the generated figures and tables are already stored in the repository.
