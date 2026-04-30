@@ -7,9 +7,9 @@ This project analyses whether the India–EU Free Trade Agreement can be underst
 Can the India–EU FTA help India reduce strategic import dependence on China by strengthening export diversification and sectoral trade resilience?
 
 ## Data
-- Source: UN Comtrade
-- Period: 2020–2024
-- Levels used:
+- **Source:** UN Comtrade
+- **Period:** 2020–2024
+- **Levels used:**
   - total bilateral goods trade
   - HS2 sector-level goods trade
 
@@ -20,17 +20,28 @@ Can the India–EU FTA help India reduce strategic import dependence on China by
 - `output/figures/` generated charts
 - `output/tables/` generated tables
 - `blog.qmd` Quarto blog file
+- `blog.html` rendered blog output
+- `requirements.txt` required Python libraries
 
 ## Reproducibility
-Run scripts in order:
-1. `01_comtrade_data.py`
-2. `02_cleaning_data.py`
-3. `03_totals_overview.py`
-4. `04_hs2_concentrated.py`
-5. `05_forecast_trends.py`
 
-Then render the Quarto file.
+### Option 1: Render from saved outputs
+The Quarto file can be rendered directly from the saved outputs without rerunning all Python scripts, as the generated figures and tables are already stored in the repository.
 
+### Option 2: To Reproduce the full analysis from scratch
+First, install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+
+python source/01_comtrade_data.py
+python source/02_cleaning_data.py
+python source/03_totals_overview.py
+python source/04_hs2_concentrated.py
+python source/05_forecast_trends.py
+
+quarto render blog.qm
+```
 ## Outputs
-- GitHub repository: [paste repo link]
-- Project endpoint: [paste rendered blog link]
+- GitHub repository: https://github.com/yesh1906/India-EU-FTA-project 
+- Project endpoint: 

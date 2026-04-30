@@ -1,5 +1,6 @@
 from pathlib import Path
 import pandas as pd
+
 # Wider terminal display for cleaner previews
 pd.set_option("display.width", 140)
 pd.set_option("display.max_columns", 20)
